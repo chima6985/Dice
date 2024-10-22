@@ -102,3 +102,7 @@ class _DicePageState extends State<DicePage> {
     );
   }
 }
+
+
+
+// need to learn authentication for this app and also to score keep
